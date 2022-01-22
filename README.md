@@ -1,3 +1,7 @@
+# Update Jan 2022
+
+While this app used to be in the Play Store back in 2016, it is no longer there as I have been busy with other projects instead.
+
 # My Book Library
 This is an Android application which allows the user to manage his personal library. 
 The goal is to be able to look for books information thanks to the Google Book API and then be able to 
